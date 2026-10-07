@@ -1,0 +1,7 @@
+{
+  "name": "SmartFlow FL",
+  "description": "Federated Traffic Flow Prediction & Communication Cost Analyzer (PS-003)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
